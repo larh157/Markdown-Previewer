@@ -1,0 +1,5 @@
+#editor {
+    height: 30rem;
+    min-width: 20rem;
+    overflow-y: scroll;
+}

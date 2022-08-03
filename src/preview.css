@@ -1,0 +1,12 @@
+#preview {
+    background-color: aqua;
+    min-width: 20rem;
+    height: 30rem;
+    overflow-y: scroll;
+    padding-left: 1rem;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
